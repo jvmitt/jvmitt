@@ -1,3 +1,5 @@
 -  Hi, i’m jvmitt.
 -  I’m currently learning NixOS, Rust, embedded and homelabbing.
 -  I’m looking to collaborate on free open-source stuff.
+
+-  I’m primarily on GitLab, check it out! (@jvmitt)
